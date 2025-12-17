@@ -1,16 +1,30 @@
-# asset_man
+# 📦 AssetTrack – Enterprise Asset Management Platform
 
-A new Flutter project.
+**AssetTrack** is a mobile application designed to manage the complete lifecycle of assets for enterprises. It provides real-time tracking, asset assignment, maintenance management, and reporting, helping organizations improve asset utilization and operational efficiency.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Key Features
+- **Asset Management:** Create, update, and track assets across the organization.  
+- **Real-Time Dashboards:** View total assets, availability status, and asset types at a glance.  
+- **Asset Assignment:** Assign assets to employees (people) with detailed tracking.  
+- **Maintenance Management:** Add and track maintenance records for each asset.  
+- **QR & NFC Integration:** Assign QR codes or NFC tags to assets for easy scanning and quick access.  
+- **Role-Based Access Control:**  
+  - **Admin:** Full access, can create users.  
+  - **User:** Can manage people and perform CRUD operations on assets.  
+  - **Employee:** Can view assigned assets.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **Frontend / Mobile:** Flutter  
+- **Backend:** Spring Boot, REST APIs  
+- **Database:** MySQL / PostgreSQL  
+- **Cloud Services:** AWS EC2 & S3 (for storage and hosting)  
+- **State Management:** Provider / Riverpod  
+- **Version Control:** Git & GitHub  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📂 Project Structure (Flutter)
