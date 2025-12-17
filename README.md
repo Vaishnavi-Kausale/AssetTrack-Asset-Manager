@@ -25,6 +25,3 @@
 - **State Management:** Provider / Riverpod  
 - **Version Control:** Git & GitHub  
 
----
-
-## 📂 Project Structure (Flutter)
